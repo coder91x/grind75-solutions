@@ -1,5 +1,8 @@
 {
   "owner": "do_E6uEUv4bQbWjS-NCchjLWYPUcbAUIetR4Cxc1XAk",
-  "files": {},
-  "snapshot": "CJDWht_JHbf3bFezLF5bcqyx2KaF1k7Ni6pxyy2ZyjE"
+  "files": {
+    "solutions/array/two-sum.py": "336ce18fd22c0fc1c56023c2ec7bd33f382c8117",
+    "notes/array/two-sum.md": "3a0c567842ff3c4a682a321d5e843d3591e59fa9"
+  },
+  "snapshot": "ql4iZZQqQua80x9gpYcvsIPct2c4B7FbzPfWS1ZgWiw"
 }

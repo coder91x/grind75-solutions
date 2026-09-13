@@ -2,7 +2,7 @@
 
 [Open on LeetCode](https://leetcode.com/problems/valid-parentheses) · Easy · Stack
 
-Status: Solved Independently
+Status: Not Started
 Date solved: 2026-09-13
 Attempts: 1
 Confidence: 3/5

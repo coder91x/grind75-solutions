@@ -14,7 +14,7 @@ Independent / transfer: 1 · Needs review: 0
 | # | Problem | Topic | Difficulty | Status | Date solved |
 |---|---|---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Array | Easy | Solved Independently | 2026-09-13 |
-| 2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Stack | Easy | Not Started | — |
+| 2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Stack | Easy | Attempted | 2026-09-13 |
 | 3 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Linked List | Easy | Not Started | — |
 | 4 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Array | Easy | Not Started | — |
 | 5 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | String | Easy | Not Started | — |

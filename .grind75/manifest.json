@@ -10,7 +10,9 @@
     "solutions/array/insert-interval.py": "e553eda84d124da8e0df47273b7f13dcc119ad56",
     "notes/array/insert-interval.md": "87f21cd494b69e460c579bb06a6b9991a2ae55f6",
     "solutions/array/3sum.py": "2f5b2916c11f4ec45c49589725bec52b4c7fed8d",
-    "notes/array/3sum.md": "02a27a7009df6fdb039b60a13a2e376cbf67dffd"
+    "notes/array/3sum.md": "02a27a7009df6fdb039b60a13a2e376cbf67dffd",
+    "solutions/array/merge-intervals.py": "3e9e7b51fdeb7c00e16dbdbe832de39f8c9a56ba",
+    "notes/array/merge-intervals.md": "158b51f47de46638a0e0e7b031eaaee71ea1fe23"
   },
-  "snapshot": "m-_LLbcKDlj0pYSnU3Mse2yRGG78yGfv8m-U6BHZs6M"
+  "snapshot": "i6HQuCnTvOHst5U9avwjAaut4Duv-BlyodC8v-Pamvg"
 }

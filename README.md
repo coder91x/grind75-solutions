@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**5 / 169 solved** · 3%
+**6 / 169 solved** · 4%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 3/41 · Medium: 2/102 · Hard: 0/26
+Easy: 3/41 · Medium: 3/102 · Hard: 0/26
 
 Independent / transfer: 2 · Needs review: 0
 
@@ -51,7 +51,7 @@ Independent / transfer: 2 · Needs review: 0
 | 36 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Binary Search | Medium | Not Started | — |
 | 37 | [Combination Sum](https://leetcode.com/problems/combination-sum) | Array | Medium | Not Started | — |
 | 38 | [Permutations](https://leetcode.com/problems/permutations) | Recursion | Medium | Not Started | — |
-| 39 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Array | Medium | Not Started | — |
+| 39 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Array | Medium | Solved with Help | 2026-09-14 |
 | 40 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | Binary Tree | Medium | Not Started | — |
 | 41 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | Binary Search | Medium | Not Started | — |
 | 42 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | String | Hard | Not Started | — |

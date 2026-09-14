@@ -3,20 +3,20 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**1 / 169 solved** · 1%
+**2 / 169 solved** · 1%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 1/41 · Medium: 0/102 · Hard: 0/26
+Easy: 2/41 · Medium: 0/102 · Hard: 0/26
 
-Independent / transfer: 1 · Needs review: 0
+Independent / transfer: 2 · Needs review: 0
 
 | # | Problem | Topic | Difficulty | Status | Date solved |
 |---|---|---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Array | Easy | Solved Independently | 2026-09-14 |
 | 2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Stack | Easy | Not Started | 2026-09-13 |
 | 3 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Linked List | Easy | Not Started | — |
-| 4 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Array | Easy | Not Started | — |
+| 4 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Array | Easy | Solved Independently | 2026-09-14 |
 | 5 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | String | Easy | Not Started | — |
 | 6 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Binary Tree | Easy | Not Started | — |
 | 7 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | String | Easy | Not Started | — |

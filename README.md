@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**2 / 169 solved** · 1%
+**3 / 169 solved** · 2%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 2/41 · Medium: 0/102 · Hard: 0/26
+Easy: 2/41 · Medium: 1/102 · Hard: 0/26
 
 Independent / transfer: 2 · Needs review: 0
 
@@ -24,7 +24,7 @@ Independent / transfer: 2 · Needs review: 0
 | 9 | [Flood Fill](https://leetcode.com/problems/flood-fill) | Graph | Easy | Not Started | — |
 | 10 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Dynamic Programming | Medium | Not Started | — |
 | 11 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | Binary Search Tree | Easy | Not Started | — |
-| 12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | Array | Medium | Not Started | — |
+| 12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | Array | Medium | Solved with Help | 2026-09-14 |
 | 13 | [01 Matrix](https://leetcode.com/problems/01-matrix) | Graph | Medium | Not Started | — |
 | 14 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | Heap | Medium | Not Started | — |
 | 15 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Binary Tree | Easy | Not Started | — |

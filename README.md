@@ -3,18 +3,18 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**4 / 169 solved** · 2%
+**5 / 169 solved** · 3%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 2/41 · Medium: 2/102 · Hard: 0/26
+Easy: 3/41 · Medium: 2/102 · Hard: 0/26
 
 Independent / transfer: 2 · Needs review: 0
 
 | # | Problem | Topic | Difficulty | Status | Date solved |
 |---|---|---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Array | Easy | Solved Independently | 2026-09-14 |
-| 2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Stack | Easy | Not Started | 2026-09-13 |
+| 2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Stack | Easy | Solved with Help | 2026-09-14 |
 | 3 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Linked List | Easy | Not Started | — |
 | 4 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Array | Easy | Solved Independently | 2026-09-14 |
 | 5 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | String | Easy | Not Started | — |

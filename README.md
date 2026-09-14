@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**3 / 169 solved** · 2%
+**4 / 169 solved** · 2%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 2/41 · Medium: 1/102 · Hard: 0/26
+Easy: 2/41 · Medium: 2/102 · Hard: 0/26
 
 Independent / transfer: 2 · Needs review: 0
 
@@ -33,7 +33,7 @@ Independent / transfer: 2 · Needs review: 0
 | 18 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Binary Search | Easy | Not Started | — |
 | 19 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Hash Table | Easy | Not Started | — |
 | 20 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | String | Medium | Not Started | — |
-| 21 | [3Sum](https://leetcode.com/problems/3sum) | Array | Medium | Not Started | — |
+| 21 | [3Sum](https://leetcode.com/problems/3sum) | Array | Medium | Solved with Help | 2026-09-14 |
 | 22 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | Binary Tree | Medium | Not Started | — |
 | 23 | [Clone Graph](https://leetcode.com/problems/clone-graph) | Graph | Medium | Not Started | — |
 | 24 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Stack | Medium | Not Started | — |

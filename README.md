@@ -3,13 +3,13 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**6 / 169 solved** · 4%
+**7 / 169 solved** · 4%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 3/41 · Medium: 3/102 · Hard: 0/26
+Easy: 3/41 · Medium: 4/102 · Hard: 0/26
 
-Independent / transfer: 2 · Needs review: 0
+Independent / transfer: 3 · Needs review: 0
 
 | # | Problem | Topic | Difficulty | Status | Date solved |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@ Independent / transfer: 2 · Needs review: 0
 | 65 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Array | Easy | Not Started | — |
 | 66 | [Unique Paths](https://leetcode.com/problems/unique-paths) | Dynamic Programming | Medium | Not Started | — |
 | 67 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | Binary Tree | Medium | Not Started | — |
-| 68 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Array | Medium | Not Started | — |
+| 68 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Array | Medium | Solved Independently | 2026-09-14 |
 | 69 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Recursion | Medium | Not Started | — |
 | 70 | [Word Search](https://leetcode.com/problems/word-search) | Graph | Medium | Not Started | — |
 | 71 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | String | Medium | Not Started | — |

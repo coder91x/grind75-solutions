@@ -11,6 +11,8 @@
     "notes/array/insert-interval.md": "87f21cd494b69e460c579bb06a6b9991a2ae55f6",
     "solutions/array/3sum.py": "2f5b2916c11f4ec45c49589725bec52b4c7fed8d",
     "notes/array/3sum.md": "02a27a7009df6fdb039b60a13a2e376cbf67dffd",
+    "solutions/array/product-of-array-except-self.py": "cbc3ef6464b6bc3e7ab951580df223ad749ba460",
+    "notes/array/product-of-array-except-self.md": "899895e682bc71aa027f4cbdab0783b7152df456",
     "solutions/array/merge-intervals.py": "3e9e7b51fdeb7c00e16dbdbe832de39f8c9a56ba",
     "notes/array/merge-intervals.md": "158b51f47de46638a0e0e7b031eaaee71ea1fe23",
     "solutions/array/majority-element.py": "29ae407b2e38d66050f7c580c97c179d7c2aecc0",
@@ -20,5 +22,5 @@
     "solutions/array/3sum-closest.py": "bff78cb7a137cc67147170d8c41494a208dc7799",
     "notes/array/3sum-closest.md": "01560462f1de00baec188d94bf6e2e6d9990ee27"
   },
-  "snapshot": "EyUfI_dcCb15_LoNEtOMKNSEq8iedc7CW2QZIGNiX8E"
+  "snapshot": "jEvovaOpEutPTmXtkgFfHd16tqF0cTxe9b59Vs6oppo"
 }

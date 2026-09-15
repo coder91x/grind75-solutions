@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**10 / 169 solved** · 6%
+**11 / 169 solved** · 7%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 4/41 · Medium: 6/102 · Hard: 0/26
+Easy: 4/41 · Medium: 7/102 · Hard: 0/26
 
 Independent / transfer: 3 · Needs review: 0
 
@@ -63,7 +63,7 @@ Independent / transfer: 3 · Needs review: 0
 | 48 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Binary Tree | Easy | Not Started | — |
 | 49 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Linked List | Easy | Not Started | — |
 | 50 | [Accounts Merge](https://leetcode.com/problems/accounts-merge) | Graph | Medium | Not Started | — |
-| 51 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Array | Medium | Not Started | — |
+| 51 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Array | Medium | Solved with Help | 2026-09-15 |
 | 52 | [Word Break](https://leetcode.com/problems/word-break) | Trie | Medium | Not Started | — |
 | 53 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | Dynamic Programming | Medium | Not Started | — |
 | 54 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | String | Medium | Not Started | — |

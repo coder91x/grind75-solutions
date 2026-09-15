@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**7 / 169 solved** · 4%
+**8 / 169 solved** · 5%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 3/41 · Medium: 4/102 · Hard: 0/26
+Easy: 3/41 · Medium: 5/102 · Hard: 0/26
 
 Independent / transfer: 3 · Needs review: 0
 
@@ -169,7 +169,7 @@ Independent / transfer: 3 · Needs review: 0
 | 154 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Binary | Easy | Not Started | — |
 | 155 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | Binary Tree | Easy | Not Started | — |
 | 156 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Array | Easy | Not Started | — |
-| 157 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | Array | Medium | Not Started | — |
+| 157 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | Array | Medium | Solved with Help | 2026-09-14 |
 | 158 | [Rotate List](https://leetcode.com/problems/rotate-list) | Linked List | Medium | Not Started | — |
 | 159 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | Binary Search | Medium | Not Started | — |
 | 160 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | Stack | Medium | Not Started | — |

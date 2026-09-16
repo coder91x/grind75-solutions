@@ -3,13 +3,13 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**11 / 169 solved** · 7%
+**12 / 169 solved** · 7%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 4/41 · Medium: 7/102 · Hard: 0/26
+Easy: 5/41 · Medium: 7/102 · Hard: 0/26
 
-Independent / transfer: 3 · Needs review: 0
+Independent / transfer: 4 · Needs review: 0
 
 | # | Problem | Topic | Difficulty | Status | Date solved |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@ Independent / transfer: 3 · Needs review: 0
 | 62 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | Heap | Hard | Not Started | — |
 | 63 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | Stack | Hard | Not Started | — |
 | 64 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Binary Tree | Easy | Not Started | — |
-| 65 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Array | Easy | Not Started | — |
+| 65 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Array | Easy | Solved Independently | 2026-09-15 |
 | 66 | [Unique Paths](https://leetcode.com/problems/unique-paths) | Dynamic Programming | Medium | Not Started | — |
 | 67 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | Binary Tree | Medium | Not Started | — |
 | 68 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Array | Medium | Solved Independently | 2026-09-14 |

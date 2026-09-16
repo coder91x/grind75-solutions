@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**13 / 169 solved** · 8%
+**14 / 169 solved** · 8%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 6/41 · Medium: 7/102 · Hard: 0/26
+Easy: 6/41 · Medium: 8/102 · Hard: 0/26
 
 Independent / transfer: 5 · Needs review: 0
 
@@ -93,7 +93,7 @@ Independent / transfer: 5 · Needs review: 0
 | 78 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms) | Array | Easy | Not Started | — |
 | 79 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Math | Easy | Not Started | — |
 | 80 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Stack | Easy | Not Started | — |
-| 81 | [Gas Station](https://leetcode.com/problems/gas-station) | Array | Medium | Not Started | — |
+| 81 | [Gas Station](https://leetcode.com/problems/gas-station) | Array | Medium | Solved with Help | 2026-09-15 |
 | 82 | [Next Permutation](https://leetcode.com/problems/next-permutation) | Recursion | Medium | Not Started | — |
 | 83 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Matrix | Medium | Not Started | — |
 | 84 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | String | Medium | Not Started | — |

@@ -3,13 +3,13 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**12 / 169 solved** · 7%
+**13 / 169 solved** · 8%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 5/41 · Medium: 7/102 · Hard: 0/26
+Easy: 6/41 · Medium: 7/102 · Hard: 0/26
 
-Independent / transfer: 4 · Needs review: 0
+Independent / transfer: 5 · Needs review: 0
 
 | # | Problem | Topic | Difficulty | Status | Date solved |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@ Independent / transfer: 4 · Needs review: 0
 | 126 | [Employee Free Time](https://leetcode.com/problems/employee-free-time) | Array | Hard | Not Started | — |
 | 127 | [Single Number](https://leetcode.com/problems/single-number) | Binary | Easy | Not Started | — |
 | 128 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Linked List | Easy | Not Started | — |
-| 129 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Array | Easy | Not Started | — |
+| 129 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Array | Easy | Solved Independently | 2026-09-15 |
 | 130 | [Maximal Square](https://leetcode.com/problems/maximal-square) | Dynamic Programming | Medium | Not Started | — |
 | 131 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Matrix | Medium | Not Started | — |
 | 132 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | Binary Tree | Medium | Not Started | — |

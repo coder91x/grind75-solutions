@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**15 / 169 solved** · 9%
+**16 / 169 solved** · 9%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 6/41 · Medium: 9/102 · Hard: 0/26
+Easy: 6/41 · Medium: 10/102 · Hard: 0/26
 
 Independent / transfer: 5 · Needs review: 0
 
@@ -116,7 +116,7 @@ Independent / transfer: 5 · Needs review: 0
 | 101 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Array | Medium | Not Started | — |
 | 102 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | Linked List | Medium | Not Started | — |
 | 103 | [Decode String](https://leetcode.com/problems/decode-string) | Stack | Medium | Not Started | — |
-| 104 | [Contiguous Array](https://leetcode.com/problems/contiguous-array) | Array | Medium | Not Started | — |
+| 104 | [Contiguous Array](https://leetcode.com/problems/contiguous-array) | Array | Medium | Solved with Help | 2026-09-16 |
 | 105 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | Binary Tree | Medium | Not Started | — |
 | 106 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) | Heap | Medium | Not Started | — |
 | 107 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | String | Medium | Not Started | — |

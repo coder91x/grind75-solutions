@@ -37,3 +37,4 @@ We create a hashmap where each key is a prefix sum we've previously encountered,
 As we traverse the array, we maintain a running curr_prefix. Since the sum of a subarray is current_prefix - previous_prefix, and we want that sum to equal k, the previous prefix we need is curr_prefix - k.
 If that required previous prefix exists in the hashmap, its frequency tells us how many valid subarrays ending at the current index exist, so we add that frequency to count.
 Then, regardless of whether we found one, we record the current prefix in the hashmap by increasing its frequency. Finally, return count.
+Similar to these questions I have also solved Subarrays sum Divisible by K And Binary Subarrays With Sum

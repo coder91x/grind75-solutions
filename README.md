@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**16 / 169 solved** · 9%
+**17 / 169 solved** · 10%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 6/41 · Medium: 10/102 · Hard: 0/26
+Easy: 6/41 · Medium: 11/102 · Hard: 0/26
 
 Independent / transfer: 5 · Needs review: 0
 
@@ -131,7 +131,7 @@ Independent / transfer: 5 · Needs review: 0
 | 116 | [Sort List](https://leetcode.com/problems/sort-list) | Linked List | Medium | Not Started | — |
 | 117 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) | Graph | Medium | Not Started | — |
 | 118 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves) | Graph | Medium | Not Started | — |
-| 119 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | Array | Medium | Not Started | — |
+| 119 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | Array | Medium | Solved with Help | 2026-09-16 |
 | 120 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | Stack | Medium | Not Started | — |
 | 121 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight) | Math | Medium | Not Started | — |
 | 122 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Heap | Medium | Not Started | — |

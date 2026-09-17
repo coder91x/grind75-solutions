@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**17 / 169 solved** · 10%
+**18 / 169 solved** · 11%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 6/41 · Medium: 11/102 · Hard: 0/26
+Easy: 7/41 · Medium: 11/102 · Hard: 0/26
 
 Independent / transfer: 5 · Needs review: 0
 
@@ -59,7 +59,7 @@ Independent / transfer: 5 · Needs review: 0
 | 44 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | Stack | Hard | Not Started | — |
 | 45 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | Heap | Hard | Not Started | — |
 | 46 | [Majority Element](https://leetcode.com/problems/majority-element) | Array | Easy | Solved with Help | 2026-09-14 |
-| 47 | [Add Binary](https://leetcode.com/problems/add-binary) | Binary | Easy | Not Started | — |
+| 47 | [Add Binary](https://leetcode.com/problems/add-binary) | Binary | Easy | Solved with Help | 2026-09-17 |
 | 48 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Binary Tree | Easy | Not Started | — |
 | 49 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Linked List | Easy | Not Started | — |
 | 50 | [Accounts Merge](https://leetcode.com/problems/accounts-merge) | Graph | Medium | Not Started | — |

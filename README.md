@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**18 / 169 solved** · 11%
+**19 / 169 solved** · 11%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 7/41 · Medium: 11/102 · Hard: 0/26
+Easy: 8/41 · Medium: 11/102 · Hard: 0/26
 
 Independent / transfer: 5 · Needs review: 0
 
@@ -106,7 +106,7 @@ Independent / transfer: 5 · Needs review: 0
 | 91 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) | Heap | Medium | Not Started | — |
 | 92 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | Binary Tree | Hard | Not Started | — |
 | 93 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack) | Stack | Hard | Not Started | — |
-| 94 | [Counting Bits](https://leetcode.com/problems/counting-bits) | Binary | Easy | Not Started | — |
+| 94 | [Counting Bits](https://leetcode.com/problems/counting-bits) | Binary | Easy | Solved with Help | 2026-09-17 |
 | 95 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | Dynamic Programming | Medium | Not Started | — |
 | 96 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) | Graph | Medium | Not Started | — |
 | 97 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | Graph | Medium | Not Started | — |

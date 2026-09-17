@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**20 / 169 solved** · 12%
+**21 / 169 solved** · 12%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 9/41 · Medium: 11/102 · Hard: 0/26
+Easy: 10/41 · Medium: 11/102 · Hard: 0/26
 
 Independent / transfer: 5 · Needs review: 0
 
@@ -166,7 +166,7 @@ Independent / transfer: 5 · Needs review: 0
 | 151 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Array | Hard | Not Started | — |
 | 152 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Math | Easy | Not Started | — |
 | 153 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Binary Search Tree | Easy | Not Started | — |
-| 154 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Binary | Easy | Not Started | — |
+| 154 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Binary | Easy | Solved with Help | 2026-09-17 |
 | 155 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | Binary Tree | Easy | Not Started | — |
 | 156 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Array | Easy | Not Started | — |
 | 157 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | Array | Medium | Solved with Help | 2026-09-14 |

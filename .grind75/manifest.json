@@ -33,6 +33,8 @@
     "notes/array/longest-consecutive-sequence.md": "2a3cc354259a84f32d01a5db1657d494b7ff656b",
     "solutions/array/contiguous-array.py": "d1a9c4aa184cef583e1f4afce345a330876611bf",
     "notes/array/contiguous-array.md": "e0d3739ea7e2f03be55caff5f62a998ed74d7624",
+    "solutions/binary/number-of-1-bits.py": "123dc76491326ddc6d011a4666551ac8e1aa658e",
+    "notes/binary/number-of-1-bits.md": "f5b5b751f564ae1b803b363a41f628f7a8920c1b",
     "solutions/array/subarray-sum-equals-k.py": "79352cf7d3e47d01103073085ff1e6c1f64ec686",
     "notes/array/subarray-sum-equals-k.md": "c356bf4bc2c898e981e578b62e80d5a022085c24",
     "solutions/array/move-zeroes.py": "e513ded38242a1001205961bcdf2bfeaf6ec1d16",
@@ -40,5 +42,5 @@
     "solutions/array/3sum-closest.py": "bff78cb7a137cc67147170d8c41494a208dc7799",
     "notes/array/3sum-closest.md": "01560462f1de00baec188d94bf6e2e6d9990ee27"
   },
-  "snapshot": "lviR_52SkqFVRoRGJPTm4b6vOBGmQ-bJUmdNvQacgeM"
+  "snapshot": "bGD-Yzq1QlY7H83BZbUaALyBo79H8FnCBALH-XW8TIw"
 }

@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**19 / 169 solved** · 11%
+**20 / 169 solved** · 12%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 8/41 · Medium: 11/102 · Hard: 0/26
+Easy: 9/41 · Medium: 11/102 · Hard: 0/26
 
 Independent / transfer: 5 · Needs review: 0
 
@@ -122,7 +122,7 @@ Independent / transfer: 5 · Needs review: 0
 | 107 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | String | Medium | Not Started | — |
 | 108 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Binary Search | Hard | Not Started | — |
 | 109 | [Same Tree](https://leetcode.com/problems/same-tree) | Binary Tree | Easy | Not Started | — |
-| 110 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Binary | Easy | Not Started | — |
+| 110 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Binary | Easy | Solved with Help | 2026-09-17 |
 | 111 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | String | Easy | Not Started | — |
 | 112 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst) | Binary Search Tree | Medium | Not Started | — |
 | 113 | [Jump Game](https://leetcode.com/problems/jump-game) | Dynamic Programming | Medium | Not Started | — |

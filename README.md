@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**23 / 169 solved** · 14%
+**24 / 169 solved** · 14%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 12/41 · Medium: 11/102 · Hard: 0/26
+Easy: 13/41 · Medium: 11/102 · Hard: 0/26
 
 Independent / transfer: 5 · Needs review: 0
 
@@ -28,7 +28,7 @@ Independent / transfer: 5 · Needs review: 0
 | 13 | [01 Matrix](https://leetcode.com/problems/01-matrix) | Graph | Medium | Not Started | — |
 | 14 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | Heap | Medium | Not Started | — |
 | 15 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Binary Tree | Easy | Not Started | — |
-| 16 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Linked List | Easy | Not Started | — |
+| 16 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Linked List | Easy | Solved with Help | 2026-09-18 |
 | 17 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Stack | Easy | Not Started | — |
 | 18 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | Binary Search | Easy | Not Started | — |
 | 19 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Hash Table | Easy | Not Started | — |

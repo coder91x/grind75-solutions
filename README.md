@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**22 / 169 solved** · 13%
+**23 / 169 solved** · 14%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 11/41 · Medium: 11/102 · Hard: 0/26
+Easy: 12/41 · Medium: 11/102 · Hard: 0/26
 
 Independent / transfer: 5 · Needs review: 0
 
@@ -154,7 +154,7 @@ Independent / transfer: 5 · Needs review: 0
 | 139 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) | Graph | Hard | Not Started | — |
 | 140 | [Bus Routes](https://leetcode.com/problems/bus-routes) | Graph | Hard | Not Started | — |
 | 141 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Binary Tree | Easy | Not Started | — |
-| 142 | [Missing Number](https://leetcode.com/problems/missing-number) | Binary | Easy | Not Started | — |
+| 142 | [Missing Number](https://leetcode.com/problems/missing-number) | Binary | Easy | Solved with Help | 2026-09-17 |
 | 143 | [Decode Ways](https://leetcode.com/problems/decode-ways) | Dynamic Programming | Medium | Not Started | — |
 | 144 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | Array | Medium | Not Started | — |
 | 145 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Math | Medium | Not Started | — |

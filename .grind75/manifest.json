@@ -43,6 +43,8 @@
     "notes/array/subarray-sum-equals-k.md": "c356bf4bc2c898e981e578b62e80d5a022085c24",
     "solutions/binary/single-number.py": "557d26b5cc9db1ed0b23bb1ddd78792abdd169f7",
     "notes/binary/single-number.md": "e367055785c1a63ca48b320a020307bd583f2690",
+    "solutions/linked-list/palindrome-linked-list.py": "76f79fe7a973a70836c663810cc5b1b5205a2461",
+    "notes/linked-list/palindrome-linked-list.md": "e1400f4da5e3546622b1333bbced9f087fa823bc",
     "solutions/array/move-zeroes.py": "e513ded38242a1001205961bcdf2bfeaf6ec1d16",
     "notes/array/move-zeroes.md": "e795cd39de34f3dba658ef8599faf82bbc17ce06",
     "solutions/binary/missing-number.py": "19926b74d3d54c1443de5e00c36d776230e7c568",
@@ -52,5 +54,5 @@
     "solutions/array/3sum-closest.py": "bff78cb7a137cc67147170d8c41494a208dc7799",
     "notes/array/3sum-closest.md": "01560462f1de00baec188d94bf6e2e6d9990ee27"
   },
-  "snapshot": "Xwxgh4RkcV8hnpFo3vKTVPP42G_qHHpwzzMD6IKHKmM"
+  "snapshot": "B5Uu_ez_BpaCSetNA8WGnUtI95A5udQ240G6vTjOgLA"
 }

@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**21 / 169 solved** · 12%
+**22 / 169 solved** · 13%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 10/41 · Medium: 11/102 · Hard: 0/26
+Easy: 11/41 · Medium: 11/102 · Hard: 0/26
 
 Independent / transfer: 5 · Needs review: 0
 
@@ -139,7 +139,7 @@ Independent / transfer: 5 · Needs review: 0
 | 124 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | Stack | Hard | Not Started | — |
 | 125 | [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system) | Trie | Hard | Not Started | — |
 | 126 | [Employee Free Time](https://leetcode.com/problems/employee-free-time) | Array | Hard | Not Started | — |
-| 127 | [Single Number](https://leetcode.com/problems/single-number) | Binary | Easy | Not Started | — |
+| 127 | [Single Number](https://leetcode.com/problems/single-number) | Binary | Easy | Solved with Help | 2026-09-17 |
 | 128 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Linked List | Easy | Not Started | — |
 | 129 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Array | Easy | Solved Independently | 2026-09-15 |
 | 130 | [Maximal Square](https://leetcode.com/problems/maximal-square) | Dynamic Programming | Medium | Not Started | — |

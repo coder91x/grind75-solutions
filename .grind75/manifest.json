@@ -15,6 +15,8 @@
     "notes/array/3sum.md": "02a27a7009df6fdb039b60a13a2e376cbf67dffd",
     "solutions/array/product-of-array-except-self.py": "cbc3ef6464b6bc3e7ab951580df223ad749ba460",
     "notes/array/product-of-array-except-self.md": "899895e682bc71aa027f4cbdab0783b7152df456",
+    "solutions/linked-list/reverse-linked-list.py": "59674a17f21cc5ec6af242b577459dc5166cd22a",
+    "notes/linked-list/reverse-linked-list.md": "7952e57b9069b318500e4a6b502b1c26144fc77d",
     "solutions/array/merge-intervals.py": "3e9e7b51fdeb7c00e16dbdbe832de39f8c9a56ba",
     "notes/array/merge-intervals.md": "158b51f47de46638a0e0e7b031eaaee71ea1fe23",
     "solutions/array/majority-element.py": "29ae407b2e38d66050f7c580c97c179d7c2aecc0",
@@ -54,5 +56,5 @@
     "solutions/array/3sum-closest.py": "bff78cb7a137cc67147170d8c41494a208dc7799",
     "notes/array/3sum-closest.md": "01560462f1de00baec188d94bf6e2e6d9990ee27"
   },
-  "snapshot": "B5Uu_ez_BpaCSetNA8WGnUtI95A5udQ240G6vTjOgLA"
+  "snapshot": "aRspyQERrsMOc09UQ6wS6KZD_PE8CTOBchI8nWwuF6g"
 }

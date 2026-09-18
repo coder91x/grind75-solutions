@@ -3,13 +3,13 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**26 / 169 solved** · 15%
+**27 / 169 solved** · 16%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 15/41 · Medium: 11/102 · Hard: 0/26
+Easy: 16/41 · Medium: 11/102 · Hard: 0/26
 
-Independent / transfer: 6 · Needs review: 0
+Independent / transfer: 7 · Needs review: 0
 
 | # | Problem | Topic | Difficulty | Status | Date solved |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@ Independent / transfer: 6 · Needs review: 0
 | 29 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Dynamic Programming | Easy | Not Started | — |
 | 30 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | String | Easy | Not Started | — |
 | 31 | [Min Stack](https://leetcode.com/problems/min-stack) | Stack | Medium | Not Started | — |
-| 32 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Linked List | Easy | Not Started | — |
+| 32 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Linked List | Easy | Solved Independently | 2026-09-18 |
 | 33 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Binary Search Tree | Medium | Not Started | — |
 | 34 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Graph | Medium | Not Started | — |
 | 35 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | Graph | Medium | Not Started | — |

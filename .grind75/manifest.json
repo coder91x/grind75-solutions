@@ -21,6 +21,8 @@
     "notes/array/majority-element.md": "da3d79dfc5bce2ed103c227740ab180ab6e587be",
     "solutions/binary/add-binary.py": "3c753f6b38e635f3bc1973b61f121e414d38e7e0",
     "notes/binary/add-binary.md": "c4379c81ff739a0edd67999454da2b14b5f458f1",
+    "solutions/linked-list/middle-of-the-linked-list.py": "7cdd738baffe0b733f6497dace9468ac25287ea0",
+    "notes/linked-list/middle-of-the-linked-list.md": "43eebee46d1eb54ea1ef39a13637c8c42cae8c76",
     "solutions/array/sort-colors.py": "34ed96e17adcf4880e6a45dd78df3e4f7bc2d6f5",
     "notes/array/sort-colors.md": "678f3ed031dfd30395119ec0772de567230ca4fd",
     "solutions/array/contains-duplicate.py": "17e881dda50695a354df670c64ccb364fbac4693",
@@ -50,5 +52,5 @@
     "solutions/array/3sum-closest.py": "bff78cb7a137cc67147170d8c41494a208dc7799",
     "notes/array/3sum-closest.md": "01560462f1de00baec188d94bf6e2e6d9990ee27"
   },
-  "snapshot": "O7gWgvsWkkWdlnDgubHg_ncSUHp7Gx9TrTP5erU4n7g"
+  "snapshot": "Xwxgh4RkcV8hnpFo3vKTVPP42G_qHHpwzzMD6IKHKmM"
 }

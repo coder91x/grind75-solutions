@@ -3,13 +3,13 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**24 / 169 solved** · 14%
+**25 / 169 solved** · 15%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 13/41 · Medium: 11/102 · Hard: 0/26
+Easy: 14/41 · Medium: 11/102 · Hard: 0/26
 
-Independent / transfer: 5 · Needs review: 0
+Independent / transfer: 6 · Needs review: 0
 
 | # | Problem | Topic | Difficulty | Status | Date solved |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@ Independent / transfer: 5 · Needs review: 0
 | 46 | [Majority Element](https://leetcode.com/problems/majority-element) | Array | Easy | Solved with Help | 2026-09-14 |
 | 47 | [Add Binary](https://leetcode.com/problems/add-binary) | Binary | Easy | Solved with Help | 2026-09-17 |
 | 48 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Binary Tree | Easy | Not Started | — |
-| 49 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Linked List | Easy | Not Started | 2026-09-18 |
+| 49 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Linked List | Easy | Solved Independently | 2026-09-18 |
 | 50 | [Accounts Merge](https://leetcode.com/problems/accounts-merge) | Graph | Medium | Not Started | — |
 | 51 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Array | Medium | Solved with Help | 2026-09-15 |
 | 52 | [Word Break](https://leetcode.com/problems/word-break) | Trie | Medium | Not Started | — |

@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**27 / 169 solved** · 16%
+**28 / 169 solved** · 17%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 16/41 · Medium: 11/102 · Hard: 0/26
+Easy: 16/41 · Medium: 12/102 · Hard: 0/26
 
 Independent / transfer: 7 · Needs review: 0
 
@@ -102,7 +102,7 @@ Independent / transfer: 7 · Needs review: 0
 | 87 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | Graph | Medium | Not Started | — |
 | 88 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Linked List | Medium | Not Started | — |
 | 89 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food) | Graph | Medium | Not Started | — |
-| 90 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Binary | Medium | Not Started | — |
+| 90 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Binary | Medium | Solved with Help | 2026-09-19 |
 | 91 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) | Heap | Medium | Not Started | — |
 | 92 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | Binary Tree | Hard | Not Started | — |
 | 93 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack) | Stack | Hard | Not Started | — |

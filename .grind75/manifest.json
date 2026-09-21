@@ -5,6 +5,8 @@
     "notes/array/two-sum.md": "dcf21d4380704e5724313e7640d56458cee3d8d2",
     "solutions/stack/valid-parentheses.py": "d4be17cac6f1fb885a95162443ac499a935ea2b9",
     "notes/stack/valid-parentheses.md": "77a937c8b6893026c3d82b2403f94c75b602fb54",
+    "solutions/linked-list/merge-two-sorted-lists.py": "848bb909f895e0c6a0553bca18eb2d2a51e2fee5",
+    "notes/linked-list/merge-two-sorted-lists.md": "80f74402a06068df77f43072ba809cc501d60622",
     "solutions/array/best-time-to-buy-and-sell-stock.py": "08595fc9723019abb583a450e680b21c47bf4778",
     "notes/array/best-time-to-buy-and-sell-stock.md": "6a4ceee6efed2fffd557c5227559c7dfe17fc8fb",
     "solutions/array/insert-interval.py": "e553eda84d124da8e0df47273b7f13dcc119ad56",
@@ -62,5 +64,5 @@
     "solutions/array/3sum-closest.py": "bff78cb7a137cc67147170d8c41494a208dc7799",
     "notes/array/3sum-closest.md": "01560462f1de00baec188d94bf6e2e6d9990ee27"
   },
-  "snapshot": "bF3yYP_apPI2Pm32f-HT1tix38_7KK99wwAZr5vuK6o"
+  "snapshot": "CBcEL7v1Mg83__kcBxj3xnvcebD2v7zsKuaeWtPVsN0"
 }

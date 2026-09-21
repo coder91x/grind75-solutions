@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**28 / 169 solved** · 17%
+**29 / 169 solved** · 17%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 16/41 · Medium: 12/102 · Hard: 0/26
+Easy: 16/41 · Medium: 13/102 · Hard: 0/26
 
 Independent / transfer: 7 · Needs review: 0
 
@@ -100,7 +100,7 @@ Independent / transfer: 7 · Needs review: 0
 | 85 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | Dynamic Programming | Medium | Not Started | — |
 | 86 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) | Trie | Medium | Not Started | — |
 | 87 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | Graph | Medium | Not Started | — |
-| 88 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Linked List | Medium | Not Started | — |
+| 88 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Linked List | Medium | Solved with Help | 2026-09-21 |
 | 89 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food) | Graph | Medium | Not Started | — |
 | 90 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Binary | Medium | Solved with Help | 2026-09-19 |
 | 91 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) | Heap | Medium | Not Started | — |

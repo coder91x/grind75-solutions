@@ -33,6 +33,8 @@
     "notes/array/container-with-most-water.md": "88f9996e3e3b83b69458c22b6afd9809e0a0fd1b",
     "solutions/array/gas-station.py": "6f436c1032e278baf0ba813f491de1cbf92db454",
     "notes/array/gas-station.md": "c1589641f10cc53cd5067adcb86a84c35376ead3",
+    "solutions/linked-list/remove-nth-node-from-end-of-list.py": "161c87a9956b59f9d0f25e722943b61c41868f9f",
+    "notes/linked-list/remove-nth-node-from-end-of-list.md": "b37a1766b6372c93dba2af6eaedf688b83cdb515",
     "solutions/binary/find-the-duplicate-number.py": "7124f62b4ef62c8576770ca2eb0cb0d7f594e352",
     "notes/binary/find-the-duplicate-number.md": "1e19838ad743f874a294cbbdb0062374efc6a405",
     "solutions/binary/counting-bits.py": "6f45ab41fcb7cb1c179ca6f6a2893ec709d2f7ce",
@@ -58,5 +60,5 @@
     "solutions/array/3sum-closest.py": "bff78cb7a137cc67147170d8c41494a208dc7799",
     "notes/array/3sum-closest.md": "01560462f1de00baec188d94bf6e2e6d9990ee27"
   },
-  "snapshot": "rIINldfVjPg_ldDMj2qtbDwftsTaNDsfkVT42n9j8to"
+  "snapshot": "VmDYSyZI_Omm-Sxn6u-2hPiV_3ZVcP8vSNcVYL_4fSw"
 }

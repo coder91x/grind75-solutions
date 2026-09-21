@@ -41,6 +41,8 @@
     "notes/binary/counting-bits.md": "e5710d5a334356f075522cb3ee58951de7166b8f",
     "solutions/array/longest-consecutive-sequence.py": "e349e8f7465a2d5758f7fe89fe521814f00d54d5",
     "notes/array/longest-consecutive-sequence.md": "2a3cc354259a84f32d01a5db1657d494b7ff656b",
+    "solutions/linked-list/odd-even-linked-list.py": "51b0a213284a231aa76d42f6942c0d07402831d8",
+    "notes/linked-list/odd-even-linked-list.md": "d63184311265d02876199fbaa3cb1361d5ad4987",
     "solutions/array/contiguous-array.py": "d1a9c4aa184cef583e1f4afce345a330876611bf",
     "notes/array/contiguous-array.md": "e0d3739ea7e2f03be55caff5f62a998ed74d7624",
     "solutions/binary/number-of-1-bits.py": "123dc76491326ddc6d011a4666551ac8e1aa658e",
@@ -60,5 +62,5 @@
     "solutions/array/3sum-closest.py": "bff78cb7a137cc67147170d8c41494a208dc7799",
     "notes/array/3sum-closest.md": "01560462f1de00baec188d94bf6e2e6d9990ee27"
   },
-  "snapshot": "VmDYSyZI_Omm-Sxn6u-2hPiV_3ZVcP8vSNcVYL_4fSw"
+  "snapshot": "bF3yYP_apPI2Pm32f-HT1tix38_7KK99wwAZr5vuK6o"
 }

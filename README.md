@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**35 / 169 solved** · 21%
+**36 / 169 solved** · 21%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 17/41 · Medium: 18/102 · Hard: 0/26
+Easy: 17/41 · Medium: 19/102 · Hard: 0/26
 
 Independent / transfer: 8 · Needs review: 0
 
@@ -128,7 +128,7 @@ Independent / transfer: 8 · Needs review: 0
 | 113 | [Jump Game](https://leetcode.com/problems/jump-game) | Dynamic Programming | Medium | Not Started | — |
 | 114 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Linked List | Medium | Solved with Help | 2026-09-21 |
 | 115 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Recursion | Medium | Not Started | — |
-| 116 | [Sort List](https://leetcode.com/problems/sort-list) | Linked List | Medium | Not Started | — |
+| 116 | [Sort List](https://leetcode.com/problems/sort-list) | Linked List | Medium | Solved with Help | 2026-09-22 |
 | 117 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) | Graph | Medium | Not Started | — |
 | 118 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves) | Graph | Medium | Not Started | — |
 | 119 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | Array | Medium | Solved with Help | 2026-09-16 |

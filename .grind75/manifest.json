@@ -49,6 +49,8 @@
     "notes/array/contiguous-array.md": "e0d3739ea7e2f03be55caff5f62a998ed74d7624",
     "solutions/binary/number-of-1-bits.py": "123dc76491326ddc6d011a4666551ac8e1aa658e",
     "notes/binary/number-of-1-bits.md": "f5b5b751f564ae1b803b363a41f628f7a8920c1b",
+    "solutions/linked-list/add-two-numbers.py": "25ebb1305753a68efa76f4282514602ceed5e347",
+    "notes/linked-list/add-two-numbers.md": "f687f58339a32d01874815179af60e1ce9cf3b80",
     "solutions/array/subarray-sum-equals-k.py": "79352cf7d3e47d01103073085ff1e6c1f64ec686",
     "notes/array/subarray-sum-equals-k.md": "c356bf4bc2c898e981e578b62e80d5a022085c24",
     "solutions/binary/single-number.py": "557d26b5cc9db1ed0b23bb1ddd78792abdd169f7",
@@ -64,5 +66,5 @@
     "solutions/array/3sum-closest.py": "bff78cb7a137cc67147170d8c41494a208dc7799",
     "notes/array/3sum-closest.md": "01560462f1de00baec188d94bf6e2e6d9990ee27"
   },
-  "snapshot": "CBcEL7v1Mg83__kcBxj3xnvcebD2v7zsKuaeWtPVsN0"
+  "snapshot": "vQtvMCBrPgAr0yS2tRi-CT8JcjpHt9eewrGEWgc4p1U"
 }

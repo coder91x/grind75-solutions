@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**31 / 169 solved** · 18%
+**32 / 169 solved** · 19%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 17/41 · Medium: 14/102 · Hard: 0/26
+Easy: 17/41 · Medium: 15/102 · Hard: 0/26
 
 Independent / transfer: 7 · Needs review: 0
 
@@ -126,7 +126,7 @@ Independent / transfer: 7 · Needs review: 0
 | 111 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | String | Easy | Not Started | — |
 | 112 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst) | Binary Search Tree | Medium | Not Started | — |
 | 113 | [Jump Game](https://leetcode.com/problems/jump-game) | Dynamic Programming | Medium | Not Started | — |
-| 114 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Linked List | Medium | Not Started | — |
+| 114 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Linked List | Medium | Solved with Help | 2026-09-21 |
 | 115 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Recursion | Medium | Not Started | — |
 | 116 | [Sort List](https://leetcode.com/problems/sort-list) | Linked List | Medium | Not Started | — |
 | 117 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) | Graph | Medium | Not Started | — |

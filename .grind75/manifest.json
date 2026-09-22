@@ -45,6 +45,8 @@
     "notes/linked-list/swap-nodes-in-pairs.md": "7a89214f69839e86191e6f5a25d83152d8ff5675",
     "solutions/array/longest-consecutive-sequence.py": "e349e8f7465a2d5758f7fe89fe521814f00d54d5",
     "notes/array/longest-consecutive-sequence.md": "2a3cc354259a84f32d01a5db1657d494b7ff656b",
+    "solutions/array/rotate-array.py": "d7deba719cc5876c2b9e9526cacbe09c192430b8",
+    "notes/array/rotate-array.md": "a0568de89d243e13de58362d192fb9c480988822",
     "solutions/linked-list/odd-even-linked-list.py": "51b0a213284a231aa76d42f6942c0d07402831d8",
     "notes/linked-list/odd-even-linked-list.md": "d63184311265d02876199fbaa3cb1361d5ad4987",
     "solutions/array/contiguous-array.py": "d1a9c4aa184cef583e1f4afce345a330876611bf",
@@ -70,5 +72,5 @@
     "solutions/linked-list/rotate-list.py": "319977cb670534cd867c9d2024848926e36dd75a",
     "notes/linked-list/rotate-list.md": "5a10ecf898a409ca6c37dd8b4f3d7fc616fe2bd2"
   },
-  "snapshot": "GHQFisZiyxOLVXwPCGFM2f4ziQssWtEporqofM-fd5U"
+  "snapshot": "WEuKasVjYbRLFVuIhw2lA0uYGOvmIgfRSeBIEOQ7lpY"
 }

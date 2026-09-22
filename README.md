@@ -3,13 +3,13 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**34 / 169 solved** · 20%
+**35 / 169 solved** · 21%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 17/41 · Medium: 17/102 · Hard: 0/26
+Easy: 17/41 · Medium: 18/102 · Hard: 0/26
 
-Independent / transfer: 7 · Needs review: 0
+Independent / transfer: 8 · Needs review: 0
 
 | # | Problem | Topic | Difficulty | Status | Date solved |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@ Independent / transfer: 7 · Needs review: 0
 | 98 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | Linked List | Medium | Solved with Help | 2026-09-22 |
 | 99 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) | Binary Tree | Medium | Not Started | — |
 | 100 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Array | Medium | Solved with Help | 2026-09-16 |
-| 101 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Array | Medium | Not Started | — |
+| 101 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Array | Medium | Solved Independently | 2026-09-22 |
 | 102 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | Linked List | Medium | Solved with Help | 2026-09-21 |
 | 103 | [Decode String](https://leetcode.com/problems/decode-string) | Stack | Medium | Not Started | — |
 | 104 | [Contiguous Array](https://leetcode.com/problems/contiguous-array) | Array | Medium | Solved with Help | 2026-09-16 |

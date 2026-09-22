@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**32 / 169 solved** · 19%
+**33 / 169 solved** · 20%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 17/41 · Medium: 15/102 · Hard: 0/26
+Easy: 17/41 · Medium: 16/102 · Hard: 0/26
 
 Independent / transfer: 7 · Needs review: 0
 
@@ -110,7 +110,7 @@ Independent / transfer: 7 · Needs review: 0
 | 95 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | Dynamic Programming | Medium | Not Started | — |
 | 96 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) | Graph | Medium | Not Started | — |
 | 97 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | Graph | Medium | Not Started | — |
-| 98 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | Linked List | Medium | Not Started | — |
+| 98 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | Linked List | Medium | Solved with Help | 2026-09-22 |
 | 99 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) | Binary Tree | Medium | Not Started | — |
 | 100 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Array | Medium | Solved with Help | 2026-09-16 |
 | 101 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Array | Medium | Not Started | — |

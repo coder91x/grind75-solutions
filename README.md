@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**36 / 169 solved** · 21%
+**37 / 169 solved** · 22%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 17/41 · Medium: 19/102 · Hard: 0/26
+Easy: 17/41 · Medium: 20/102 · Hard: 0/26
 
 Independent / transfer: 8 · Needs review: 0
 
@@ -159,7 +159,7 @@ Independent / transfer: 8 · Needs review: 0
 | 144 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | Array | Medium | Not Started | — |
 | 145 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Math | Medium | Not Started | — |
 | 146 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Matrix | Medium | Not Started | — |
-| 147 | [Reorder List](https://leetcode.com/problems/reorder-list) | Linked List | Medium | Not Started | — |
+| 147 | [Reorder List](https://leetcode.com/problems/reorder-list) | Linked List | Medium | Solved with Help | 2026-09-23 |
 | 148 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) | String | Medium | Not Started | — |
 | 149 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops) | Graph | Medium | Not Started | — |
 | 150 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree) | Binary Tree | Medium | Not Started | — |

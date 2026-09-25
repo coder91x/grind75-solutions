@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**38 / 169 solved** · 22%
+**39 / 169 solved** · 23%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 17/41 · Medium: 20/102 · Hard: 1/26
+Easy: 17/41 · Medium: 21/102 · Hard: 1/26
 
 Independent / transfer: 8 · Needs review: 0
 
@@ -86,7 +86,7 @@ Independent / transfer: 8 · Needs review: 0
 | 71 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | String | Medium | Not Started | — |
 | 72 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) | Graph | Medium | Not Started | — |
 | 73 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | Heap | Medium | Not Started | — |
-| 74 | [LRU Cache](https://leetcode.com/problems/lru-cache) | Linked List | Medium | Not Started | — |
+| 74 | [LRU Cache](https://leetcode.com/problems/lru-cache) | Linked List | Medium | Solved with Help | 2026-09-25 |
 | 75 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Binary Search Tree | Medium | Not Started | — |
 | 76 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Stack | Medium | Not Started | — |
 | 77 | [House Robber](https://leetcode.com/problems/house-robber) | Dynamic Programming | Medium | Not Started | — |

@@ -33,6 +33,8 @@
     "notes/array/contains-duplicate.md": "9d8cc3e5c9dfb1babc07c7b9f4064aa4eb9c4e65",
     "solutions/array/container-with-most-water.py": "da4e098d9a1563a9dcd4928843978dc9c5467e3b",
     "notes/array/container-with-most-water.md": "88f9996e3e3b83b69458c22b6afd9809e0a0fd1b",
+    "solutions/linked-list/lru-cache.py": "2dbebfee6faa35713f573c51bbd3e9e39f053d70",
+    "notes/linked-list/lru-cache.md": "f20795e4b2211f536b8600b7d10fbec26d070726",
     "solutions/array/gas-station.py": "6f436c1032e278baf0ba813f491de1cbf92db454",
     "notes/array/gas-station.md": "c1589641f10cc53cd5067adcb86a84c35376ead3",
     "solutions/linked-list/remove-nth-node-from-end-of-list.py": "161c87a9956b59f9d0f25e722943b61c41868f9f",
@@ -78,5 +80,5 @@
     "solutions/linked-list/reverse-nodes-in-k-group.py": "5ad6247fa773df973c100a9edd228e65b97f513d",
     "notes/linked-list/reverse-nodes-in-k-group.md": "c553e2508d4f4f172483adb722499d39ef8b0ea0"
   },
-  "snapshot": "bLeXTTLnfFHGqn6aowJNdNdaGsGF6LfR15x2HMo9hK4"
+  "snapshot": "EBBW4OxHov-fFq4SSSzIF5DYPqo3GzrX-RQpy3BORqI"
 }

@@ -74,7 +74,9 @@
     "solutions/array/3sum-closest.py": "bff78cb7a137cc67147170d8c41494a208dc7799",
     "notes/array/3sum-closest.md": "01560462f1de00baec188d94bf6e2e6d9990ee27",
     "solutions/linked-list/rotate-list.py": "319977cb670534cd867c9d2024848926e36dd75a",
-    "notes/linked-list/rotate-list.md": "5a10ecf898a409ca6c37dd8b4f3d7fc616fe2bd2"
+    "notes/linked-list/rotate-list.md": "5a10ecf898a409ca6c37dd8b4f3d7fc616fe2bd2",
+    "solutions/linked-list/reverse-nodes-in-k-group.py": "5ad6247fa773df973c100a9edd228e65b97f513d",
+    "notes/linked-list/reverse-nodes-in-k-group.md": "c553e2508d4f4f172483adb722499d39ef8b0ea0"
   },
-  "snapshot": "jbFlSwA56XFZgK5W-3kvM6pwvKVNy2PVs2GkjENHjx8"
+  "snapshot": "bLeXTTLnfFHGqn6aowJNdNdaGsGF6LfR15x2HMo9hK4"
 }

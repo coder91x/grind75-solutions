@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**37 / 169 solved** · 22%
+**38 / 169 solved** · 22%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 17/41 · Medium: 20/102 · Hard: 0/26
+Easy: 17/41 · Medium: 20/102 · Hard: 1/26
 
 Independent / transfer: 8 · Needs review: 0
 
@@ -177,7 +177,7 @@ Independent / transfer: 8 · Needs review: 0
 | 162 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | Hash Table | Medium | Not Started | — |
 | 163 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | Array | Medium | Not Started | — |
 | 164 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs) | String | Hard | Not Started | — |
-| 165 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | Linked List | Hard | Not Started | — |
+| 165 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | Linked List | Hard | Solved with Help | 2026-09-24 |
 | 166 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | Matrix | Hard | Not Started | — |
 | 167 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | Hash Table | Hard | Not Started | — |
 | 168 | [N-Queens](https://leetcode.com/problems/n-queens) | Recursion | Hard | Not Started | — |

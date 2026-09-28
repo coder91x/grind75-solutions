@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**39 / 169 solved** · 23%
+**40 / 169 solved** · 24%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 17/41 · Medium: 21/102 · Hard: 1/26
+Easy: 17/41 · Medium: 22/102 · Hard: 1/26
 
 Independent / transfer: 8 · Needs review: 0
 
@@ -175,7 +175,7 @@ Independent / transfer: 8 · Needs review: 0
 | 160 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | Stack | Medium | Not Started | — |
 | 161 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) | Dynamic Programming | Medium | Not Started | — |
 | 162 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | Hash Table | Medium | Not Started | — |
-| 163 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | Array | Medium | Not Started | — |
+| 163 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | Array | Medium | Solved with Help | 2026-09-28 |
 | 164 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs) | String | Hard | Not Started | — |
 | 165 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | Linked List | Hard | Solved with Help | 2026-09-24 |
 | 166 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | Matrix | Hard | Not Started | — |

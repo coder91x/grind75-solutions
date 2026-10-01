@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**40 / 169 solved** · 24%
+**41 / 169 solved** · 24%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 17/41 · Medium: 22/102 · Hard: 1/26
+Easy: 18/41 · Medium: 22/102 · Hard: 1/26
 
 Independent / transfer: 8 · Needs review: 0
 
@@ -168,7 +168,7 @@ Independent / transfer: 8 · Needs review: 0
 | 153 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Binary Search Tree | Easy | Not Started | — |
 | 154 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Binary | Easy | Solved with Help | 2026-09-17 |
 | 155 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | Binary Tree | Easy | Not Started | — |
-| 156 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Array | Easy | Not Started | — |
+| 156 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Array | Easy | Solved with Help | 2026-10-01 |
 | 157 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | Array | Medium | Solved with Help | 2026-09-14 |
 | 158 | [Rotate List](https://leetcode.com/problems/rotate-list) | Linked List | Medium | Solved with Help | 2026-09-22 |
 | 159 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | Binary Search | Medium | Not Started | — |

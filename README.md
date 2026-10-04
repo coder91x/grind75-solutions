@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**42 / 169 solved** · 25%
+**43 / 169 solved** · 25%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 18/41 · Medium: 23/102 · Hard: 1/26
+Easy: 18/41 · Medium: 23/102 · Hard: 2/26
 
 Independent / transfer: 8 · Needs review: 0
 
@@ -163,7 +163,7 @@ Independent / transfer: 8 · Needs review: 0
 | 148 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) | String | Medium | Not Started | — |
 | 149 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops) | Graph | Medium | Not Started | — |
 | 150 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree) | Binary Tree | Medium | Not Started | — |
-| 151 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Array | Hard | Not Started | — |
+| 151 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Array | Hard | Solved with Help | 2026-10-04 |
 | 152 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Math | Easy | Not Started | — |
 | 153 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Binary Search Tree | Easy | Not Started | — |
 | 154 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Binary | Easy | Solved with Help | 2026-09-17 |

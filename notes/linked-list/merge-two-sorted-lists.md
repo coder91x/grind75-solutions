@@ -2,7 +2,7 @@
 
 [Open on LeetCode](https://leetcode.com/problems/merge-two-sorted-lists) · Easy · Linked List
 
-Status: Solved with Help
+Status: Solved Independently
 Date solved: 2026-09-21
 Attempts: 2
 Confidence: 3/5

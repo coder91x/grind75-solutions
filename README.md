@@ -9,13 +9,13 @@
 
 Easy: 18/41 · Medium: 23/102 · Hard: 2/26
 
-Independent / transfer: 8 · Needs review: 0
+Independent / transfer: 9 · Needs review: 0
 
 | # | Problem | Topic | Difficulty | Status | Date solved |
 |---|---|---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Array | Easy | Solved Independently | 2026-09-14 |
 | 2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Stack | Easy | Solved with Help | 2026-09-14 |
-| 3 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Linked List | Easy | Solved with Help | 2026-09-21 |
+| 3 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Linked List | Easy | Solved Independently | 2026-09-21 |
 | 4 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Array | Easy | Solved Independently | 2026-09-14 |
 | 5 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | String | Easy | Not Started | — |
 | 6 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Binary Tree | Easy | Not Started | — |

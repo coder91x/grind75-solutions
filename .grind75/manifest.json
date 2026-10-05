@@ -6,7 +6,7 @@
     "solutions/stack/valid-parentheses.py": "d4be17cac6f1fb885a95162443ac499a935ea2b9",
     "notes/stack/valid-parentheses.md": "77a937c8b6893026c3d82b2403f94c75b602fb54",
     "solutions/linked-list/merge-two-sorted-lists.py": "848bb909f895e0c6a0553bca18eb2d2a51e2fee5",
-    "notes/linked-list/merge-two-sorted-lists.md": "80f74402a06068df77f43072ba809cc501d60622",
+    "notes/linked-list/merge-two-sorted-lists.md": "d91240dd0c860c2c2c5bb156bf86ccc858e0fb91",
     "solutions/array/best-time-to-buy-and-sell-stock.py": "08595fc9723019abb583a450e680b21c47bf4778",
     "notes/array/best-time-to-buy-and-sell-stock.md": "6a4ceee6efed2fffd557c5227559c7dfe17fc8fb",
     "solutions/array/insert-interval.py": "e553eda84d124da8e0df47273b7f13dcc119ad56",
@@ -88,5 +88,5 @@
     "solutions/linked-list/reverse-nodes-in-k-group.py": "5ad6247fa773df973c100a9edd228e65b97f513d",
     "notes/linked-list/reverse-nodes-in-k-group.md": "c553e2508d4f4f172483adb722499d39ef8b0ea0"
   },
-  "snapshot": "ADbv2MxPGH783TYhA2Yi1GFO7eas4N8XjumNdQW_pE8"
+  "snapshot": "JWl83uJm5RXljFlm6nc4jgpHm1jKxbrFxlN7Xs-gZ2c"
 }

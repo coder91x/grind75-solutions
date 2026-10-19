@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**45 / 169 solved** · 27%
+**46 / 169 solved** · 27%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 18/41 · Medium: 25/102 · Hard: 2/26
+Easy: 19/41 · Medium: 25/102 · Hard: 2/26
 
 Independent / transfer: 9 · Needs review: 0
 
@@ -41,7 +41,7 @@ Independent / transfer: 9 · Needs review: 0
 | 26 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | Trie | Medium | Not Started | — |
 | 27 | [Coin Change](https://leetcode.com/problems/coin-change) | Dynamic Programming | Medium | Solved with Help | 2026-10-19 |
 | 28 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Array | Medium | Solved with Help | 2026-09-15 |
-| 29 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Dynamic Programming | Easy | Not Started | — |
+| 29 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Dynamic Programming | Easy | Solved with Help | 2026-10-19 |
 | 30 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | String | Easy | Not Started | — |
 | 31 | [Min Stack](https://leetcode.com/problems/min-stack) | Stack | Medium | Not Started | — |
 | 32 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Linked List | Easy | Solved Independently | 2026-09-18 |

@@ -21,6 +21,8 @@
     "notes/dynamic-programming/coin-change.md": "0c5ccb109e326adaa42a28bdc174409d15151e58",
     "solutions/array/product-of-array-except-self.py": "cbc3ef6464b6bc3e7ab951580df223ad749ba460",
     "notes/array/product-of-array-except-self.md": "899895e682bc71aa027f4cbdab0783b7152df456",
+    "solutions/dynamic-programming/climbing-stairs.py": "4a64c5b9c25c4931d377fc49ca44b32c70e01a7e",
+    "notes/dynamic-programming/climbing-stairs.md": "416b2f2b50aeeb5f8c4c19451a3c826434b9e3d1",
     "solutions/linked-list/reverse-linked-list.py": "59674a17f21cc5ec6af242b577459dc5166cd22a",
     "notes/linked-list/reverse-linked-list.md": "7952e57b9069b318500e4a6b502b1c26144fc77d",
     "solutions/array/merge-intervals.py": "3e9e7b51fdeb7c00e16dbdbe832de39f8c9a56ba",
@@ -92,5 +94,5 @@
     "solutions/linked-list/reverse-nodes-in-k-group.py": "5ad6247fa773df973c100a9edd228e65b97f513d",
     "notes/linked-list/reverse-nodes-in-k-group.md": "c553e2508d4f4f172483adb722499d39ef8b0ea0"
   },
-  "snapshot": "DnKyXnGtnOfouhZOROZ_jEap5K7IYhNY_kX5yFzCNs0"
+  "snapshot": "Ztz2i8eEVHfBKTegPbAvmQhNi7aIj5GrVLqMgJKFapo"
 }

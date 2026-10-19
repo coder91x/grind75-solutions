@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**46 / 169 solved** · 27%
+**47 / 169 solved** · 28%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 19/41 · Medium: 25/102 · Hard: 2/26
+Easy: 19/41 · Medium: 26/102 · Hard: 2/26
 
 Independent / transfer: 9 · Needs review: 0
 
@@ -97,7 +97,7 @@ Independent / transfer: 9 · Needs review: 0
 | 82 | [Next Permutation](https://leetcode.com/problems/next-permutation) | Recursion | Medium | Not Started | — |
 | 83 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Matrix | Medium | Not Started | — |
 | 84 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | String | Medium | Not Started | — |
-| 85 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | Dynamic Programming | Medium | Not Started | — |
+| 85 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | Dynamic Programming | Medium | Solved with Help | 2026-10-19 |
 | 86 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) | Trie | Medium | Not Started | — |
 | 87 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | Graph | Medium | Not Started | — |
 | 88 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Linked List | Medium | Solved with Help | 2026-09-21 |

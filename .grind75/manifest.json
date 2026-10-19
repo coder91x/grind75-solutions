@@ -45,6 +45,8 @@
     "notes/stack/daily-temperatures.md": "3ba99bfb4bef1ea3cd6eec54c11af65dab997201",
     "solutions/array/gas-station.py": "6f436c1032e278baf0ba813f491de1cbf92db454",
     "notes/array/gas-station.md": "c1589641f10cc53cd5067adcb86a84c35376ead3",
+    "solutions/dynamic-programming/maximum-product-subarray.py": "91b63338236c563603262672b9fb7ea4970fddb5",
+    "notes/dynamic-programming/maximum-product-subarray.md": "6607ed7dd0b987154f95594d973c323dae26507e",
     "solutions/linked-list/remove-nth-node-from-end-of-list.py": "161c87a9956b59f9d0f25e722943b61c41868f9f",
     "notes/linked-list/remove-nth-node-from-end-of-list.md": "b37a1766b6372c93dba2af6eaedf688b83cdb515",
     "solutions/binary/find-the-duplicate-number.py": "7124f62b4ef62c8576770ca2eb0cb0d7f594e352",
@@ -94,5 +96,5 @@
     "solutions/linked-list/reverse-nodes-in-k-group.py": "5ad6247fa773df973c100a9edd228e65b97f513d",
     "notes/linked-list/reverse-nodes-in-k-group.md": "c553e2508d4f4f172483adb722499d39ef8b0ea0"
   },
-  "snapshot": "Ztz2i8eEVHfBKTegPbAvmQhNi7aIj5GrVLqMgJKFapo"
+  "snapshot": "kQjTrHh_-W09jHCmwbMCfamy7ncqs6JuniThNwAQ-aM"
 }

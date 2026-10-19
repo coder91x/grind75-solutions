@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**43 / 169 solved** · 25%
+**44 / 169 solved** · 26%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 18/41 · Medium: 23/102 · Hard: 2/26
+Easy: 18/41 · Medium: 24/102 · Hard: 2/26
 
 Independent / transfer: 9 · Needs review: 0
 
@@ -22,7 +22,7 @@ Independent / transfer: 9 · Needs review: 0
 | 7 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | String | Easy | Not Started | — |
 | 8 | [Binary Search](https://leetcode.com/problems/binary-search) | Binary Search | Easy | Not Started | — |
 | 9 | [Flood Fill](https://leetcode.com/problems/flood-fill) | Graph | Easy | Not Started | — |
-| 10 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Dynamic Programming | Medium | Not Started | — |
+| 10 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Dynamic Programming | Medium | Solved with Help | 2026-10-19 |
 | 11 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | Binary Search Tree | Easy | Not Started | — |
 | 12 | [Insert Interval](https://leetcode.com/problems/insert-interval) | Array | Medium | Solved with Help | 2026-09-14 |
 | 13 | [01 Matrix](https://leetcode.com/problems/01-matrix) | Graph | Medium | Not Started | — |

@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**47 / 169 solved** · 28%
+**48 / 169 solved** · 28%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 19/41 · Medium: 26/102 · Hard: 2/26
+Easy: 19/41 · Medium: 27/102 · Hard: 2/26
 
 Independent / transfer: 9 · Needs review: 0
 
@@ -65,7 +65,7 @@ Independent / transfer: 9 · Needs review: 0
 | 50 | [Accounts Merge](https://leetcode.com/problems/accounts-merge) | Graph | Medium | Not Started | — |
 | 51 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Array | Medium | Solved with Help | 2026-09-15 |
 | 52 | [Word Break](https://leetcode.com/problems/word-break) | Trie | Medium | Not Started | — |
-| 53 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | Dynamic Programming | Medium | Not Started | — |
+| 53 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | Dynamic Programming | Medium | Solved with Help | 2026-10-21 |
 | 54 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | String | Medium | Not Started | — |
 | 55 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Matrix | Medium | Not Started | — |
 | 56 | [Subsets](https://leetcode.com/problems/subsets) | Recursion | Medium | Not Started | — |

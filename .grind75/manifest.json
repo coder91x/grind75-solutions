@@ -35,6 +35,8 @@
     "notes/linked-list/middle-of-the-linked-list.md": "43eebee46d1eb54ea1ef39a13637c8c42cae8c76",
     "solutions/array/sort-colors.py": "34ed96e17adcf4880e6a45dd78df3e4f7bc2d6f5",
     "notes/array/sort-colors.md": "678f3ed031dfd30395119ec0772de567230ca4fd",
+    "solutions/dynamic-programming/partition-equal-subset-sum.py": "9abd9bcdfab6cb826e04018b93c072e7cf902ad4",
+    "notes/dynamic-programming/partition-equal-subset-sum.md": "ce25cc1fba27ae941a27cc6ce6dba05c6e058c6f",
     "solutions/array/contains-duplicate.py": "17e881dda50695a354df670c64ccb364fbac4693",
     "notes/array/contains-duplicate.md": "9d8cc3e5c9dfb1babc07c7b9f4064aa4eb9c4e65",
     "solutions/array/container-with-most-water.py": "da4e098d9a1563a9dcd4928843978dc9c5467e3b",
@@ -96,5 +98,5 @@
     "solutions/linked-list/reverse-nodes-in-k-group.py": "5ad6247fa773df973c100a9edd228e65b97f513d",
     "notes/linked-list/reverse-nodes-in-k-group.md": "c553e2508d4f4f172483adb722499d39ef8b0ea0"
   },
-  "snapshot": "kQjTrHh_-W09jHCmwbMCfamy7ncqs6JuniThNwAQ-aM"
+  "snapshot": "VdinfGdScc7k_r53KSYIIvuJA_Lq245GwS9rDAMA05s"
 }

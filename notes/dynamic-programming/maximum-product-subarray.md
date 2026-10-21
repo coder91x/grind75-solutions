@@ -33,4 +33,5 @@ _No notes yet._
 
 ## Review Notes
 
-_No notes yet._
+max_dp[i] = Maximum product of a contiguous subarray ending exactly at index i.
+min_dp[i] = Minimum product of a contiguous subarray ending exactly at index i.

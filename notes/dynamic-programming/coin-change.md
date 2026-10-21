@@ -33,4 +33,4 @@ _No notes yet._
 
 ## Review Notes
 
-_No notes yet._
+dp[i] represents the minimum number of coins required to make amount i, using unlimited coins.

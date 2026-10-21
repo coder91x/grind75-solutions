@@ -33,4 +33,4 @@ _No notes yet._
 
 ## Review Notes
 
-_No notes yet._
+dp[i] represents the number of distinct ways to reach step i, taking 1 or 2 steps at a time

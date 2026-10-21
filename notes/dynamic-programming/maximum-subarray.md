@@ -33,4 +33,4 @@ _No notes yet._
 
 ## Review Notes
 
-_No notes yet._
+dp[i] represents the maximum sum of a contiguous subarray ending exactly at index i.

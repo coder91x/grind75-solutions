@@ -10,7 +10,7 @@
     "solutions/array/best-time-to-buy-and-sell-stock.py": "08595fc9723019abb583a450e680b21c47bf4778",
     "notes/array/best-time-to-buy-and-sell-stock.md": "6a4ceee6efed2fffd557c5227559c7dfe17fc8fb",
     "solutions/dynamic-programming/maximum-subarray.py": "2ef1160c665737c61738755480e52c73c5599567",
-    "notes/dynamic-programming/maximum-subarray.md": "5cc9bf1183844bd46f0013a5b122f99929fa393f",
+    "notes/dynamic-programming/maximum-subarray.md": "e0b2bed9f4f927f75365eb27060d9c00f81a6442",
     "solutions/array/insert-interval.py": "e553eda84d124da8e0df47273b7f13dcc119ad56",
     "notes/array/insert-interval.md": "87f21cd494b69e460c579bb06a6b9991a2ae55f6",
     "solutions/linked-list/linked-list-cycle.py": "e2096f546952a33977c81ae320733b48307aa172",
@@ -98,5 +98,5 @@
     "solutions/linked-list/reverse-nodes-in-k-group.py": "5ad6247fa773df973c100a9edd228e65b97f513d",
     "notes/linked-list/reverse-nodes-in-k-group.md": "c553e2508d4f4f172483adb722499d39ef8b0ea0"
   },
-  "snapshot": "VdinfGdScc7k_r53KSYIIvuJA_Lq245GwS9rDAMA05s"
+  "snapshot": "N3-VOPGRhVbuU3dcg6UnTeVxHvao5z_NrAa7sCG1LtA"
 }

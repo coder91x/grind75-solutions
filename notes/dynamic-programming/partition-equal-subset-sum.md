@@ -33,4 +33,5 @@ _No notes yet._
 
 ## Review Notes
 
-_No notes yet._
+dp[i] represents whether it is possible to form a subset with sum i, using the array elements processed so far.
+

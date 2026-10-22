@@ -45,6 +45,8 @@
     "notes/linked-list/lru-cache.md": "f20795e4b2211f536b8600b7d10fbec26d070726",
     "solutions/stack/daily-temperatures.py": "c9f84efdb1c35c2a682a910aebb9015d01fd1e2c",
     "notes/stack/daily-temperatures.md": "3ba99bfb4bef1ea3cd6eec54c11af65dab997201",
+    "solutions/dynamic-programming/house-robber.py": "986c7348555ddb8730e8bca358ec405306b96e0e",
+    "notes/dynamic-programming/house-robber.md": "24d9eab2bcbd2e269d075021aeccb1a61a1ccb03",
     "solutions/array/gas-station.py": "6f436c1032e278baf0ba813f491de1cbf92db454",
     "notes/array/gas-station.md": "c1589641f10cc53cd5067adcb86a84c35376ead3",
     "solutions/dynamic-programming/maximum-product-subarray.py": "91b63338236c563603262672b9fb7ea4970fddb5",
@@ -98,5 +100,5 @@
     "solutions/linked-list/reverse-nodes-in-k-group.py": "5ad6247fa773df973c100a9edd228e65b97f513d",
     "notes/linked-list/reverse-nodes-in-k-group.md": "c553e2508d4f4f172483adb722499d39ef8b0ea0"
   },
-  "snapshot": "3lSscT5Lk2mNGBP14HgwNZDEh9yg_uJGfWF-lcy9S1s"
+  "snapshot": "5htRe2YpANR_wQa5clOmD6OApwWfwDHCTrlQZPXmuIs"
 }

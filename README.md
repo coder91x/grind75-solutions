@@ -3,11 +3,11 @@
 <!-- grind75:progress:start -->
 ## Grind 75 progress
 
-**48 / 169 solved** · 28%
+**49 / 169 solved** · 29%
 
 [18 weeks · 19 hours/week · all-rounded order](https://www.techinterviewhandbook.org/grind75/?weeks=18&order=all_rounded&hours=19)
 
-Easy: 19/41 · Medium: 27/102 · Hard: 2/26
+Easy: 19/41 · Medium: 28/102 · Hard: 2/26
 
 Independent / transfer: 9 · Needs review: 0
 
@@ -89,7 +89,7 @@ Independent / transfer: 9 · Needs review: 0
 | 74 | [LRU Cache](https://leetcode.com/problems/lru-cache) | Linked List | Medium | Solved with Help | 2026-09-25 |
 | 75 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Binary Search Tree | Medium | Not Started | — |
 | 76 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Stack | Medium | Solved with Help | 2026-10-03 |
-| 77 | [House Robber](https://leetcode.com/problems/house-robber) | Dynamic Programming | Medium | Not Started | — |
+| 77 | [House Robber](https://leetcode.com/problems/house-robber) | Dynamic Programming | Medium | Solved with Help | 2026-10-22 |
 | 78 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms) | Array | Easy | Not Started | — |
 | 79 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Math | Easy | Not Started | — |
 | 80 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Stack | Easy | Not Started | — |

@@ -57,6 +57,8 @@
     "notes/binary/find-the-duplicate-number.md": "1e19838ad743f874a294cbbdb0062374efc6a405",
     "solutions/binary/counting-bits.py": "6f45ab41fcb7cb1c179ca6f6a2893ec709d2f7ce",
     "notes/binary/counting-bits.md": "e5710d5a334356f075522cb3ee58951de7166b8f",
+    "solutions/dynamic-programming/longest-increasing-subsequence.py": "c9cc989e1c54e715f19f70b6d7436af43eb26fab",
+    "notes/dynamic-programming/longest-increasing-subsequence.md": "868d581e4f5b38cb9851d9c6188a3cd6c9397160",
     "solutions/linked-list/swap-nodes-in-pairs.py": "4f3bb7cb02f276f7dbf3554536a3cd0db37e2470",
     "notes/linked-list/swap-nodes-in-pairs.md": "7a89214f69839e86191e6f5a25d83152d8ff5675",
     "solutions/array/longest-consecutive-sequence.py": "e349e8f7465a2d5758f7fe89fe521814f00d54d5",
@@ -100,5 +102,5 @@
     "solutions/linked-list/reverse-nodes-in-k-group.py": "5ad6247fa773df973c100a9edd228e65b97f513d",
     "notes/linked-list/reverse-nodes-in-k-group.md": "c553e2508d4f4f172483adb722499d39ef8b0ea0"
   },
-  "snapshot": "5htRe2YpANR_wQa5clOmD6OApwWfwDHCTrlQZPXmuIs"
+  "snapshot": "8wv3jxh_6qQ6FveASE1InQHsrUwE7_IE-zG_tzBnucw"
 }

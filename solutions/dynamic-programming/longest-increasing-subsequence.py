@@ -13,3 +13,29 @@ class Solution:
             i += 1
         
         return max(dp)
+
+class Solution:
+    def lengthOfLIS(self, nums: list[int]) -> int:
+        tails = [nums[0]]
+        left = 0
+        right = len(tails) - 1
+        mid = (left + right) // 2
+        i = 1
+        while i < len(nums):
+            if nums[i] > tails[-1]:
+                tails.append(nums[i])
+                i += 1
+            else:
+                left = 0
+                right = len(tails) - 1
+                while left < right:
+                    mid = (left + right) // 2
+                    if tails[mid] >= nums[i]:
+                        right = mid
+                    else:
+                        left = mid + 1
+                tails[left] = nums[i]
+                i += 1
+        print(tails)
+        lis = len(tails)
+        return lis
